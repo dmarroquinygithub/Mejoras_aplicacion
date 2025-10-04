@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_login">login</string>
+    <string name="nav_register">register</string>
+    <string name="nav_users">users</string>
+
+    <string name="users_title">Lista de usuarios</string>
+    <string name="new_user">Nuevo Usuario</string>
+    <string name="form_title">Formulario de Estudiante</string>
+
+    <string name="name">Nombre</string>
+    <string name="career">Carrera</string>
+    <string name="student_id">Carnet</string>
+
+    <string name="nav_form">form</string>
+
+    <string name="app_name">Clase</string>
+    <string name="login_screen_text">Iniciar sesión</string>
+    <string name="login_screen_login_button">Iniciar sesión</string>
+    <string name="login_screen_register_button">No tienes cuenta ? crea una acá</string>
+
+    <string name="register_screen_text">Crea tu cuenta</string>
+    <string name="register_screen_register_button">Crear cuenta</string>
+
+    <string name="fields_email">Correo electrónico</string>
+    <string name="fields_password">Contraseña</string>
+    <string name="fields_confirm_password">Confirmar contraseña</string>
+
+    <string name="login_screen_success">Inicio de sesion correcto</string>
+    <string name="login_screen_fail">Fallo el inicio de sesion</string>
+    <string name="login_screen_validation_email_empty">El correo es requerido</string>
+
+    <string name="user_form_screen_email">Email</string>
+
+
+</resources>
